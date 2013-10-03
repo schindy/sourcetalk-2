@@ -14,7 +14,7 @@
     </properties>
     
     <scm>
-        <developerConnection>scm:git:https://github.com/axelfontaine/sourcetalk-2.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/schindy/sourcetalk-2.git</developerConnection>
     </scm>
 
     <distributionManagement>
